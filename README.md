@@ -43,7 +43,7 @@ The program supports the following commands:
 
 ## 📌 readFromInput
 
-**Input:**
+**Input:**<br>
 3<br>
 Grand Canyon Village<br>
 7800 600 200 2100 1900<br>
@@ -82,87 +82,87 @@ Length 4200, Estimated time 94 min<br>
 
 ## 📌 findShort
 
-**Input:**
-5000
+**Input:**<br>
+5000<br>
 
-**Output:**
-From Bright Angel Trailhead to Bright Angel Trailhead
-Uphill 300, Downhill 300
-Max altitude 2100, Min altitude 1800
-Length 4200, Estimated time 94 min
+**Output:**<br>
+From Bright Angel Trailhead to Bright Angel Trailhead<br>
+Uphill 300, Downhill 300<br>
+Max altitude 2100, Min altitude 1800<br>
+Length 4200, Estimated time 94 min<br>
 
 ## 📌 findLocation
 
-**Input:**
-Bright Angel Trailhead
+**Input:**<br>
+Bright Angel Trailhead<br>
 
 **Output:**
-From Bright Angel Trailhead to Bright Angel Trailhead
-Uphill 300, Downhill 300
-Max altitude 2100, Min altitude 1800
-Length 4200, Estimated time 94 min
+From Bright Angel Trailhead to Bright Angel Trailhead<br>
+Uphill 300, Downhill 300<br>
+Max altitude 2100, Min altitude 1800<br>
+Length 4200, Estimated time 94 min<br>
 
-From Bright Angel Trailhead to Grand Canyon Village
-Uphill 200, Downhill 600
-Max altitude 2100, Min altitude 1900
-Length 7800, Estimated time 120 min
+From Bright Angel Trailhead to Grand Canyon Village<br>
+Uphill 200, Downhill 600<br>
+Max altitude 2100, Min altitude 1900<br>
+Length 7800, Estimated time 120 min<br>
 
 ## 📌 findUpHill
 
 **Input:** *(no input)*
 
-**Output:**
-From Grand Canyon Village to Bright Angel Trailhead
-Uphill 600, Downhill 200
-Max altitude 2100, Min altitude 1900
-Length 7800, Estimated time 230 min
+**Output:**<br>
+From Grand Canyon Village to Bright Angel Trailhead<br>
+Uphill 600, Downhill 200<br>
+Max altitude 2100, Min altitude 1900<br>
+Length 7800, Estimated time 230 min<br>
 
-From Bright Angel Trailhead to Bright Angel Trailhead
-Uphill 300, Downhill 300
-Max altitude 2100, Min altitude 1800
-Length 4200, Estimated time 94 min
+From Bright Angel Trailhead to Bright Angel Trailhead<br>
+Uphill 300, Downhill 300<br>
+Max altitude 2100, Min altitude 1800<br>
+Length 4200, Estimated time 94 min<br>
 
 ## 📌 findDownHill
 
 **Input:** *(no input)*
 
-**Output:**
-From Bright Angel Trailhead to Grand Canyon Village
-Uphill 200, Downhill 600
-Max altitude 2100, Min altitude 1900
-Length 7800, Estimated time 120 min
+**Output:**<br>
+From Bright Angel Trailhead to Grand Canyon Village<br>
+Uphill 200, Downhill 600<br>
+Max altitude 2100, Min altitude 1900<br>
+Length 7800, Estimated time 120 min<br>
 
 ## 📌 findAltitude
 
-**Input:**
-100 2000
+**Input:**<br>
+100 2000<br>
 
-**Output:**
-From Lake Michigan to Lake Michigan
-Uphill 1000, Downhill 1000
-Max altitude 250, Min altitude 180
-Length 15000, Estimated time 331 min
+**Output:**<br>
+From Lake Michigan to Lake Michigan<br>
+Uphill 1000, Downhill 1000<br>
+Max altitude 250, Min altitude 180<br>
+Length 15000, Estimated time 331 min<br>
 
 ## 📌 findTimely
 
-**Input:**
-240
+**Input:**<br>
+240<br>
 
-**Output:**
-From Grand Canyon Village to Bright Angel Trailhead
-Uphill 600, Downhill 200
-Max altitude 2100, Min altitude 1900
-Length 7800, Estimated time 230 min
+**Output:**<br>
+From Grand Canyon Village to Bright Angel Trailhead<br>
+Uphill 600, Downhill 200<br>
+Max altitude 2100, Min altitude 1900<br>
+Length 7800, Estimated time 230 min<br>
 
-From Bright Angel Trailhead to Grand Canyon Village
-Uphill 200, Downhill 600
-Max altitude 2100, Min altitude 1900
-Length 7800, Estimated time 120 min
+From Bright Angel Trailhead to Grand Canyon Village<br>
+Uphill 200, Downhill 600<br>
+Max altitude 2100, Min altitude 1900<br>
+Length 7800, Estimated time 120 min<br>
 
-From Bright Angel Trailhead to Bright Angel Trailhead
-Uphill 300, Downhill 300
-Max altitude 2100, Min altitude 1800
-Length 4200, Estimated time 94 min
+From Bright Angel Trailhead to Bright Angel Trailhead<br>
+Uphill 300, Downhill 300<br>
+Max altitude 2100, Min altitude 1800<br>
+Length 4200, Estimated time 94 min<br>
 
 ## 📌 Quit (`q`)
 
