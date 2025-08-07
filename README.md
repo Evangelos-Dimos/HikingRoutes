@@ -200,4 +200,4 @@ Length 4200, Estimated time 94 min<br>
 
 ## 📌 Quit (`q`)
 
-**Ends the program**
+**Double press 'q' to end the program**
