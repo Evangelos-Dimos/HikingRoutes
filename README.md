@@ -198,6 +198,6 @@ Uphill 300, Downhill 300<br>
 Max altitude 2100, Min altitude 1800<br>
 Length 4200, Estimated time 94 min<br>
 
-## 📌 Quit (`q`)
+## q) Quit
 
 **Double press 'q' to end the program**
