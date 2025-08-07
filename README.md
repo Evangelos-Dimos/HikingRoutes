@@ -54,8 +54,8 @@ Bright Angel Trailhead
 Lake Michigan
 15000 1000 1000 250 180
 Lake Michigan
-``` | Stores 3 routes in memory |
-| **printData**    | *(no input)*                                                                           | ```
+ | Stores 3 routes in memory |
+| **printData**    | *(no input)*                                                                           | 
 From Lake Michigan to Lake Michigan
 Uphill 1000, Downhill 1000
 Max altitude 250, Min altitude 180
@@ -75,14 +75,14 @@ From Bright Angel Trailhead to Bright Angel Trailhead
 Uphill 300, Downhill 300
 Max altitude 2100, Min altitude 1800
 Length 4200, Estimated time 94 min
-``` |
-| **findShort**    | `5000`                                                                                 | ```
+|
+| **findShort**    | `5000`                                                                                 | 
 From Bright Angel Trailhead to Bright Angel Trailhead
 Uphill 300, Downhill 300
 Max altitude 2100, Min altitude 1800
 Length 4200, Estimated time 94 min
-``` |
-| **findLocation** | `Bright Angel Trailhead`                                                               | ```
+
+| **findLocation** | `Bright Angel Trailhead`                                                               |
 From Bright Angel Trailhead to Bright Angel Trailhead
 Uphill 300, Downhill 300
 Max altitude 2100, Min altitude 1800
@@ -91,15 +91,14 @@ Length 4200, Estimated time 94 min
 From Bright Angel Trailhead to Grand Canyon Village
 Uphill 200, Downhill 600
 Max altitude 2100, Min altitude 1900
-Length 7800, Estimated time 120 min
-``` |
-| **findUpHill**   | *(no input)*                                                                           | ```
+Length 7800, Estimated time 120 min |
+| **findUpHill**   | *(no input)*                                                                           |
 From Grand Canyon Village to Bright Angel Trailhead
 Uphill 600, Downhill 200
 Max altitude 2100, Min altitude 1900
 Length 7800, Estimated time 230 min
 ``` |
-| **findDownHill** | *(no input)*                                                                           | ```
+| **findDownHill** | *(no input)*                                                                           |
 From Bright Angel Trailhead to Grand Canyon Village
 Uphill 200, Downhill 600
 Max altitude 2100, Min altitude 1900
