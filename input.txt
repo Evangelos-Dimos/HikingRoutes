@@ -1,0 +1,10 @@
+3
+Grand Canyon Village
+7800 600 200 2100 1900
+Bright Angel Trailhead
+Bright Angel Trailhead
+4200 300 300 2100 1800
+Bright Angel Trailhead
+Lake Michigan
+15000 1000 1000 250 180
+Lake Michigan
