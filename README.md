@@ -96,7 +96,7 @@ Length 4200, Estimated time 94 min<br>
 **Input:**<br>
 Bright Angel Trailhead<br>
 
-**Output:**
+**Output:**<br>
 From Bright Angel Trailhead to Bright Angel Trailhead<br>
 Uphill 300, Downhill 300<br>
 Max altitude 2100, Min altitude 1800<br>
