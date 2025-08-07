@@ -35,13 +35,15 @@ The program supports the following commands:
 | `d`    | Display only downhill routes (downhill > uphill) |
 | `h`    | Display routes whose altitude range is within a given [min, max] |
 | `t`    | Display routes with estimated time ≤ T (in minutes) |
+| `f`    | Read route data from user's file|
+| `o`    | Save route data to an output file|
 | `q`    | Quit program |
 
 ---
 
 ## 🥾 Hiking Routes Program — Input/Output Examples
 
-## 📌 readFromInput
+## i) readFromInput
 
 **Input:**<br>
 3<br>
@@ -55,7 +57,7 @@ Lake Michigan<br>
 15000 1000 1000 250 180<br>
 Lake Michigan<br>
 
-## 📌 printData
+## p) printData
 
 **Input:** *(no input)*
 
@@ -80,7 +82,7 @@ Uphill 300, Downhill 300<br>
 Max altitude 2100, Min altitude 1800<br>
 Length 4200, Estimated time 94 min<br>
 
-## 📌 findShort
+## l) findShort
 
 **Input:**<br>
 5000<br>
@@ -91,7 +93,7 @@ Uphill 300, Downhill 300<br>
 Max altitude 2100, Min altitude 1800<br>
 Length 4200, Estimated time 94 min<br>
 
-## 📌 findLocation
+## s) findLocation
 
 **Input:**<br>
 Bright Angel Trailhead<br>
@@ -107,7 +109,7 @@ Uphill 200, Downhill 600<br>
 Max altitude 2100, Min altitude 1900<br>
 Length 7800, Estimated time 120 min<br>
 
-## 📌 findUpHill
+## u) findUpHill
 
 **Input:** *(no input)*
 
@@ -122,7 +124,7 @@ Uphill 300, Downhill 300<br>
 Max altitude 2100, Min altitude 1800<br>
 Length 4200, Estimated time 94 min<br>
 
-## 📌 findDownHill
+## d) findDownHill
 
 **Input:** *(no input)*
 
@@ -132,7 +134,7 @@ Uphill 200, Downhill 600<br>
 Max altitude 2100, Min altitude 1900<br>
 Length 7800, Estimated time 120 min<br>
 
-## 📌 findAltitude
+## h) findAltitude
 
 **Input:**<br>
 100 2000<br>
@@ -143,12 +145,44 @@ Uphill 1000, Downhill 1000<br>
 Max altitude 250, Min altitude 180<br>
 Length 15000, Estimated time 331 min<br>
 
-## 📌 findTimely
+## t) findTimely
 
 **Input:**<br>
 240<br>
 
 **Output:**<br>
+From Grand Canyon Village to Bright Angel Trailhead<br>
+Uphill 600, Downhill 200<br>
+Max altitude 2100, Min altitude 1900<br>
+Length 7800, Estimated time 230 min<br>
+
+From Bright Angel Trailhead to Grand Canyon Village<br>
+Uphill 200, Downhill 600<br>
+Max altitude 2100, Min altitude 1900<br>
+Length 7800, Estimated time 120 min<br>
+
+From Bright Angel Trailhead to Bright Angel Trailhead<br>
+Uphill 300, Downhill 300<br>
+Max altitude 2100, Min altitude 1800<br>
+Length 4200, Estimated time 94 min<br>
+
+## f) readFromFile
+
+**Input:**<br>
+input.txt<br>
+
+## o) saveData
+
+**Input:**<br>
+output.txt<br>
+
+**Output:**<br>
+written file output.txt with:<br>
+From Lake Michigan to Lake Michigan<br>
+Uphill 1000, Downhill 1000<br>
+Max altitude 250, Min altitude 180<br>
+Length 15000, Estimated time 331 min<br>
+
 From Grand Canyon Village to Bright Angel Trailhead<br>
 Uphill 600, Downhill 200<br>
 Max altitude 2100, Min altitude 1900<br>
